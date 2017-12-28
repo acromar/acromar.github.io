@@ -9,24 +9,23 @@
 
 	<body>
 		<div id="container">
-			<img src="ScottPhoto.png" id="pic">
+			<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAoyAAAAJGYxNDlkMGU2LTZmOWUtNDgxOS04NDNlLWM4NmE0MWNlNDFiOA.jpg" id="pic">
 			<div id="content-contact">
-				Scott Bromander
+				Aaron Cromar
 			</div>
 
 			<div id="content-info">
 				<p>
-					Phone: 602.647.8338
+					Phone: 801.707.6843
 					<br>
-					Address: 3300 W Camelback Rd, Phoenix, AZ 85017
+					Website: https://www.modernisteconomist.com
 				</p>
 			</div>
 
 			<div id="content-body">
 				<div id="content-summary">
 					<div id="content-summarycontent">
-						Strongly self-motivated, creative, lively individual with a passion for bridging the gap between People and the Technology they interact with.
-						Relationship centric mentality that is driven by a deep understanding that through teamwork anything is possible.
+						My passion is that we all have a story. I believe that people are capable of incredible things when they have the help and support they need. I make connections—between people, ideas, and resources. My sole purpose in life is to help and inspire people.
 					</div>
 				</div>
 
