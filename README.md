@@ -11,6 +11,6 @@
 - 🌱 I am currently learning `tidymodels`, `gptstudio`, and other machine learning methods
 - 👯 I am looking to collaborate on projects related to behavioral and technological-related adverse mental health outcomes and suicidality in adolescents and adults
 
-- ⚡ Fun fact: Fulbright scholar from Colombia
+- ⚡ Fun fact: Avid mountaineer and skier -- praying for snow in AZ
 - 📫 How to reach me: email me at ASU, acromar@asu.edu
 - 📝 Visit my [website](https://www.modernisteconomist.com/) 
